@@ -1,4 +1,4 @@
 # myfirst-demo
 this is my first repo
 <br>
-author - Nimisha
+author - Nimisha (tiwari)
